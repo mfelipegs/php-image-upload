@@ -1,0 +1,4 @@
+- arquivos devem ter nomes randomicamente diferentes (via parametro do md5)
+- nome dos arquivos devem ser salvos no mysql
+- ao excluir um arquivo a tupla no mysql tbm deve ser excluida
+- o sistema deve ser capaz de restringir upload por tipo de arquivo e tamanho
